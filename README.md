@@ -1,3 +1,5 @@
-# to_do
+## Flutter To-Do App
 
-A new Flutter project.
+> This project was developed for educatioanl purposes
+
+Basic To-Do app for android.
