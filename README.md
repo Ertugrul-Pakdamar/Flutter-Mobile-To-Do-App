@@ -1,5 +1,5 @@
 ## Flutter To-Do App
 
-> This project was developed for educatioanl purposes
+> This project was developed for educational purposes
 
 Basic To-Do app for android.
